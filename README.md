@@ -67,7 +67,7 @@ $ streamlit run app.py
 
 [1] krishnaik06: [https://github.com/krishnaik06/DNA-Sequencing-Classifier](https://github.com/krishnaik06/DNA-Sequencing-Classifier)
 
-[2] Prakhar Rathi: [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)
+[2] Prakhar Rathi: [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)   
 [3]  Nagesh Singh Chauhan : [Dataset](https://www.kaggle.com/nageshsingh/dna-sequence-dataset)
 
 ## Contact
