@@ -73,3 +73,4 @@ $ streamlit run app.py
 ## Contact
 
 For any feedback or queries, please reach out to [cyrillemesue@gmail.com](cyrillemesue@gmail.com).
+# dna-seq-classifier
