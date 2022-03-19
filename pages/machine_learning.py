@@ -15,7 +15,7 @@ import pickle
 
 def app():
     st.markdown("### Machine Learning for DNA Classification")
-    st.markdown("[Github repository]()")
+    st.markdown("[Get Jupyter Notebook](https://raw.githubusercontent.com/CyrilleMesue/dna-seq-classifier/main/DNA%20Sequencing%20and%20applying%20Classifier.ipynb)")
     st.markdown("""
     In this notebook, we will apply a classification model that can predict a gene's function based on the DNA sequence of the coding sequence alone. The model can be used to deterimine if the gene product is any of the following classes of proteins. 
 
@@ -392,7 +392,7 @@ pd.DataFrame(best_parameters)""", language='python'
         st.dataframe(pd.DataFrame(best_parameters))
 
         st.markdown("***GET JUPYTER NOTEBOOK HERE FROM GITHUB***  ")
-        st.markdown("[jupyter notebook]()")
+        st.markdown("[jupyter notebook](https://raw.githubusercontent.com/CyrilleMesue/dna-seq-classifier/main/DNA%20Sequencing%20and%20applying%20Classifier.ipynb)")
 
 #        st.markdown("### Save Models")
         # vec name
