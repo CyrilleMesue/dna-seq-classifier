@@ -38,7 +38,7 @@ And this code was adapted from : https://github.com/krishnaik06/DNA-Sequencing-C
 """
     )
     st.markdown("### Upload Data")
-    st.markdown("You can get  a sample dataset [here]().")
+    st.markdown("You can get  a sample dataset [here](https://raw.githubusercontent.com/CyrilleMesue/dna-seq-classifier/main/datasets/chimp_data.txt).")
     input_file = st.file_uploader("Please upload a comma separated text file!!! First column should contain dna strings and second column, the numeric labels", type=["txt"])
 
     if st.button("Upload file"):
