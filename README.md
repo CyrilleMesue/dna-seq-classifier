@@ -14,7 +14,7 @@ And this code was adapted from : https://github.com/krishnaik06/DNA-Sequencing-C
 The model have been trained and validated using a 10-fold cross validation and achieved an average accuracy of 98.2 on the human dataset. These models (countvectoriizer and multinomial naive Bayes classifier) can be used to make predictions on new datasets. All that is needed is to enter a DNA text string or upload a text file in the **Predict DNA class** on the taskbar.  
 
 
-You can also train on your own dataset provided the data is in text format where the DNA(label = sequence) is seprated from the labels(label = class) by a comma. You can play with the **Machine Learning Pipeline** on the taskbar for this. It might take a few minutes to completely run the code in the background. 
+You can also train on your own dataset provided the data is in text format where the DNA(label = sequence) is seprated from the labels(label = class) by a comma. You can play with the **Machine Learning Pipeline** on the taskbar for this. It might take a few minutes to completely run the code in the background. The app is being deployed here [https://dna-sequence-classification.herokuapp.com/](https://dna-sequence-classification.herokuapp.com/).    
 
 ### How to predict DNA class
 In this section, you can use our pretrained classifier to classify a conding DNA seuence into either of the following classes.  
