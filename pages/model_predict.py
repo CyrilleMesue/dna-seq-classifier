@@ -23,7 +23,7 @@ def app():
 | 5   | Ion channel        | [Description](https://en.wikipedia.org/wiki/Ion_channel)
 | 6   | Transcription factor        | [Description](https://en.wikipedia.org/wiki/Transcription_factor#:~:text=In%20molecular%20biology%2C%20a%20transcription,to%20a%20specific%20DNA%20sequence.)""")
     
-    st.write(""" > Type or copy paste the DNA string into the input section below. Or you can upload a text file that contains your DNA string. You can get a sample DNA string [here]()""")
+    st.write(""" > Type or copy paste the DNA string into the input section below. Or you can upload a text file that contains your DNA string. You can get a sample DNA string [here](https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/datasets/sample.txt)""")
     
     st.write("\n\n")
     input_text = st.text_input("Type in a coding DNA sequence", placeholder="ATCG... or atcg...")
