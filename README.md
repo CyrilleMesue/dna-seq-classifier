@@ -59,7 +59,7 @@ $ streamlit run app.py
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/u/38958532?v=4" width="100px;" alt=""/><br /><sub><b>Cyrille M. NJUME</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/CyrilleMesue" width="100px;" alt=""/><br /><sub><b>Cyrille M. NJUME</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -73,5 +73,3 @@ $ streamlit run app.py
 ## Contact
 
 For any feedback or queries, please reach out to [cyrillemesue@gmail.com](cyrillemesue@gmail.com).
-# dna-seq-classifier
-# dna-seq-classifier
