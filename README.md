@@ -27,7 +27,7 @@ In this section, you can use our pretrained classifier to classify a conding DNA
 | 3   | Synthetase        | [Description](https://en.wikipedia.org/w/index.php?title=Synthetase&redirect=no)
 | 4   | Synthase     | [Description](https://en.wikipedia.org/wiki/Synthase)
 | 5   | Ion channel        | [Description](https://en.wikipedia.org/wiki/Ion_channel)
-| 6   | Transcription factor        | [Description](https://en.wikipedia.org/wiki/Transcription_factor#:~:text=In%20molecular%20biology%2C%20a%20transcription,to%20a%20specific%20DNA%20sequence.)""")
+| 6   | Transcription factor        | [Description](https://en.wikipedia.org/wiki/Transcription_factor#:~:text=In%20molecular%20biology%2C%20a%20transcription,to%20a%20specific%20DNA%20sequence.)
 
 The prediction interface looks like this. 
 ![image tooltip here](https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/predict.png)
