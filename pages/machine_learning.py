@@ -394,6 +394,7 @@ pd.DataFrame(best_parameters)""", language='python'
         st.markdown("***GET JUPYTER NOTEBOOK HERE FROM GITHUB***  ")
         st.markdown("[jupyter notebook](https://raw.githubusercontent.com/CyrilleMesue/dna-seq-classifier/main/DNA%20Sequencing%20and%20applying%20Classifier.ipynb)")
         st.markdown("***DONE!!!***")
+        
 #        st.markdown("### Save Models")
         # vec name
 #        v_filepath = 'tmp/dna_vectorizer.sav'
