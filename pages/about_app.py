@@ -16,7 +16,7 @@ The model have been trained and validated using a 10-fold cross validation and a
                )
 
 
-    image = Image.open('predict.png')
+    image = Image.open('https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/predict.png')
     st.image(image, caption='Upload a DNA Seqence to Classify')
 
     st.markdown("""
@@ -26,7 +26,7 @@ You can also train on your own dataset provided the data is in text format where
     
     """)
     
-    image = Image.open('machinelearning.png')
+    image = Image.open('https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/machinelearning.png')
     st.image(image, caption='Machine Learning for DNA Classification')
     
     st.markdown("***ENJOY THE APP***")
