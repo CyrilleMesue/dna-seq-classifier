@@ -72,7 +72,7 @@ $ streamlit run app.py
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/CyrilleMesue" width="100px;" alt=""/><br /><sub><b>Cyrille M. NJUME</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/CyrilleMesue"><img src="https://avatars.githubusercontent.com/CyrilleMesue" width="100px;" alt=""/><br /><sub><b>Cyrille M. NJUME</b></sub></a><br /></td>
   </tr>
 </table>
 
