@@ -17,15 +17,28 @@ The model have been trained and validated using a 10-fold cross validation and a
 You can also train on your own dataset provided the data is in text format where the DNA(label = sequence) is seprated from the labels(label = class) by a comma. You can play with the **Machine Learning Pipeline** on the taskbar for this. It might take a few minutes to completely run the code in the background. 
 
 ### How to predict DNA class
+In this section, you can use our pretrained classifier to classify a conding DNA seuence into either of the following classes.  
 
+| Protein Class      | Name | Description
+| ----------- | ----------- | ----------
+| 0      | G protein coupled receptors       | [Description](https://en.wikipedia.org/wiki/G_protein-coupled_receptor)
+| 1   | Tyrosine kinase        | [Description](https://en.wikipedia.org/wiki/Tyrosine_kinase)
+| 2   | Tyrosine phosphatase        | [Description](https://en.wikipedia.org/wiki/Protein_tyrosine_phosphatase)
+| 3   | Synthetase        | [Description](https://en.wikipedia.org/w/index.php?title=Synthetase&redirect=no)
+| 4   | Synthase     | [Description](https://en.wikipedia.org/wiki/Synthase)
+| 5   | Ion channel        | [Description](https://en.wikipedia.org/wiki/Ion_channel)
+| 6   | Transcription factor        | [Description](https://en.wikipedia.org/wiki/Transcription_factor#:~:text=In%20molecular%20biology%2C%20a%20transcription,to%20a%20specific%20DNA%20sequence.)""")
+
+The prediction interface looks like this. 
+![image tooltip here](https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/predict.png)
  
 
 ### Train Models on New Datasets 
+In this section, you can upload your own dataset and the entire machine learning pipeline will be displayed for you. You can also download download the jupyter notebook and train the models on the local machine. 
+![image tooltip here](https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/machinelearning.png)
 
 
-
-
-## Technology Stack 
+### Technology Stack 
 
 1. Python 
 2. Streamlit 
@@ -34,7 +47,7 @@ You can also train on your own dataset provided the data is in text format where
 5. markdown
 
 
-## How to Run 
+### How to Run 
 
 - Clone the repository
 - Setup Virtual environment
@@ -55,7 +68,7 @@ $ streamlit run app.py
 ```
 
 
-## Contributors 
+### Contributors 
 
 <table>
   <tr>
@@ -63,13 +76,13 @@ $ streamlit run app.py
   </tr>
 </table>
 
-## References 
+### References 
 
 [1] krishnaik06: [https://github.com/krishnaik06/DNA-Sequencing-Classifier](https://github.com/krishnaik06/DNA-Sequencing-Classifier)
 
 [2] Prakhar Rathi: [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)   
 [3]  Nagesh Singh Chauhan : [Dataset](https://www.kaggle.com/nageshsingh/dna-sequence-dataset)
 
-## Contact
+### Contact
 
 For any feedback or queries, please reach out to [cyrillemesue@gmail.com](mailto:cyrillemesue@gmail.com).
