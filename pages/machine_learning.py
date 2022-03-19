@@ -48,7 +48,7 @@ And this code was adapted from : https://github.com/krishnaik06/DNA-Sequencing-C
         else:
             uploaded_data = pd.read_table(input_file)
             st.markdown("""
-            ***Data Uploaded***
+            ***Data Uploaded. It might take about upto an hour for everything to display***
             """)
             
             st.dataframe(uploaded_data)
@@ -393,7 +393,7 @@ pd.DataFrame(best_parameters)""", language='python'
 
         st.markdown("***GET JUPYTER NOTEBOOK HERE FROM GITHUB***  ")
         st.markdown("[jupyter notebook](https://raw.githubusercontent.com/CyrilleMesue/dna-seq-classifier/main/DNA%20Sequencing%20and%20applying%20Classifier.ipynb)")
-
+        st.markdown("***DONE!!!***")
 #        st.markdown("### Save Models")
         # vec name
 #        v_filepath = 'tmp/dna_vectorizer.sav'
