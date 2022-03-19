@@ -29,4 +29,6 @@ You can also train on your own dataset provided the data is in text format where
     image = Image.open('https://github.com/CyrilleMesue/dna-seq-classifier/blob/main/machinelearning.png')
     st.image(image, caption='Machine Learning for DNA Classification')
     
+    st.markdown("Github : [https://github.com/CyrilleMesue/dna-seq-classifier](https://github.com/CyrilleMesue/dna-seq-classifier)")
+    
     st.markdown("***ENJOY THE APP***")
